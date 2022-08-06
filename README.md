@@ -4,7 +4,7 @@ Hi 👋 My name is Kristian Grivnev
 Web Developer
 -------------
 
-I am a student majoring in software engineering. Dedicated to improving skills through hands-on learning and development work. I have really found a passion for Frondend development. I am a motivated and ambitious person, setting goals that i will achieve!
+I am freshly graduated student with a Bachelor's degree in computer science. Dedicated to improving skills through hands-on learning and development work. I have really found a passion for Frondend development. I am a motivated and ambitious person, setting goals that i will achieve!
 
 * 🌍  I'm based in Sofia
 * ✉️  You can contact me at [kristiqn124@gmail.com](mailto:kristiqn124@gmail.com)
